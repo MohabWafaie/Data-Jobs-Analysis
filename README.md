@@ -6,11 +6,11 @@ The Home page
 The Jobs page  
 The Skills page  
 The Companies page  
-## Home page  
+## Home Page  
 ![Screenshot 2023-06-05 145002](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/3d386fed-b817-4cdb-ba33-9938e9918c62) 
   
 From this page you can navigate to the other 3 pages using the buttons above "Jobs", "Skills" and "Company"
-## Jobs page  
+## Jobs Page  
 ![Screenshot 2023-06-05 145045](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/38d77e03-34c2-4d2d-8edb-40d2cbe6b89b)  
   
 This page gives a full overview about the jobs metrics with a full set of filters to answer all the questions needed  
@@ -25,7 +25,9 @@ Some of the questions it answers:
 8- What are the skills needed for the top 5 data jobs?  
 9- What is the number of job postings for each job title?  
 10- What is the number of job postings for each job position level?  
-## Skills page  
+You can open the filters using the Filter Panel button  
+You can navigate to Home page using the Home button  
+## Skills Page  
 ![Screenshot 2023-06-05 145156](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/2e9f925c-ac2c-4ec0-806b-5931de1e6e0c)  
   
 This page gives a full overview about the skills metrics with a full set of filters to answer all the questions needed  
@@ -36,7 +38,9 @@ Some of the questions it answers:
 4- What is the percentage of appearance of each job skill?  
 5- What is the number of jobs in which each skill was mentioned?  
 6- What is the distribution of skills for each job title?  
-## Companies page
+You can open the filters using the Filter Panel button  
+You can navigate to Home page using the Home button  
+## Companies Page
 ![Screenshot 2023-06-05 145513](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/78d85f7c-c01d-486d-b79c-56cd21a0d2f5)  
   
 This page gives a full overview about the companies metrics with a full set of filters to answer all the questions needed  
@@ -51,3 +55,5 @@ Some of the questions it answers:
 8- What is the most requested job for each company industry?  
 9- What is the most requested job for each company size?  
 10- What is the distribution of jobs according to company locations?  
+You can open the filters using the Filter Panel button  
+You can navigate to Home page using the Home button  
