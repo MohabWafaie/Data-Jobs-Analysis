@@ -5,7 +5,7 @@ The dashboard is composed of 4 pages:
 The Home page  
 The Jobs page  
 The Skills page  
-The companies page  
+The Companies page  
 ## Home page  
 ![Screenshot 2023-06-05 145002](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/3d386fed-b817-4cdb-ba33-9938e9918c62) 
   
@@ -30,6 +30,22 @@ Some of the questions it answers:
   
 This page gives a full overview about the jobs metrics with a full set of filters to answer all the questions needed  
 Some of the questions it answers:  
+1- What are the most popular skills?  
+2- What is the count of the most popular skills?  
+3- What is the trend of the top skills over time?  
+4- What is the percentage of appearance of each job skill?  
+5- What is the number of jobs in which each skill was mentioned?  
+6- What is the distribution of skills for each job title?  
+## Companies page
+![Screenshot 2023-06-05 145513](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/78d85f7c-c01d-486d-b79c-56cd21a0d2f5)  
+  
+This page gives a full overview about the jobs metrics with a full set of filters to answer all the questions needed  
+Some of the questions it answers:  
+1- What is the average number of jobs for each company industry?  
+2- What is the average years of experience for each company industry?  
+3- What is the average salary for each company industry?  
+4- What is the most requested job position level for each company industry?  
+
 
 
 
