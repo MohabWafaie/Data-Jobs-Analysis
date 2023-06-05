@@ -28,7 +28,7 @@ Some of the questions it answers:
 ## Skills page  
 ![Screenshot 2023-06-05 145156](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/2e9f925c-ac2c-4ec0-806b-5931de1e6e0c)  
   
-This page gives a full overview about the jobs metrics with a full set of filters to answer all the questions needed  
+This page gives a full overview about the skills metrics with a full set of filters to answer all the questions needed  
 Some of the questions it answers:  
 1- What are the most popular skills?  
 2- What is the count of the most popular skills?  
@@ -39,7 +39,7 @@ Some of the questions it answers:
 ## Companies page
 ![Screenshot 2023-06-05 145513](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/78d85f7c-c01d-486d-b79c-56cd21a0d2f5)  
   
-This page gives a full overview about the jobs metrics with a full set of filters to answer all the questions needed  
+This page gives a full overview about the companies metrics with a full set of filters to answer all the questions needed  
 Some of the questions it answers:  
 1- What is the average number of jobs for each company industry?  
 2- What is the average years of experience for each company industry?  
