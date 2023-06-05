@@ -45,8 +45,9 @@ Some of the questions it answers:
 2- What is the average years of experience for each company industry?  
 3- What is the average salary for each company industry?  
 4- What is the most requested job position level for each company industry?  
-
-
-
-
-
+5- What is number of jobs for each company size?  
+6- What is average years of experience for each company size?  
+7- What is the average salary for each company size?  
+8- What is the most requested job for each company industry?  
+9- What is the most requested job for each company size?  
+10- What is the distribution of jobs according to company locations?  
