@@ -62,3 +62,7 @@ You can navigate to Home page using the Home button
   
 A full set of filters that fulfills all your needs.  
 The same is available for all the pages.  
+## Data Schema  
+![Screenshot 2023-06-19 222159](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/85ef7091-3b20-4337-a8e4-cc43ac109fcb)  
+ 
+I used a star schema to store and process the data efficiently.
