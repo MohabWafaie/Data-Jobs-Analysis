@@ -60,5 +60,5 @@ You can navigate to Home page using the Home button
 ## Filter Panel  
 ![Screenshot 2023-06-05 145628](https://github.com/MohabWafaie/Data-Jobs-Analysis/assets/39447236/7c470541-a689-4ec4-af46-73e04c3caf74)  
   
-A full set of filters that fullfills all your needs.  
+A full set of filters that fulfills all your needs.  
 The same is available for all the pages.  
